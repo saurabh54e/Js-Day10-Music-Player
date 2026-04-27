@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Music Player</title>
+    <link rel="stylesheet" href="style.css" />
+    <script
+      src="https://kit.fontawesome.com/e021865a12.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <div class="container">
+      <div class="music-player">
+        <nav>
+          <div class="circle">
+            <i class="fa-solid fa-angle-left"></i>
+          </div>
+          <div class="circle" onclick="playlist()">
+            <i class="fa-solid fa-bars"></i>
+          </div>
+        </nav>
+        <div id="playlist-container" class="playlist">
+          <ul>
+            <li onclick="playSong(0, this)">Song 1</li>
+            <li onclick="playSong(1, this)">Song 2</li>
+            <li onclick="playSong(2, this)">Song 3</li>
+          </ul>
+        </div>
+        <img src="assets/images/song1.png" class="song-img" />
+        <h2>Chore Albadi</h2>
+        <p>Duryodhan, Akash Rana</p>
+        <audio id="song" src="assets/music/Song1.mp3"></audio>
+        <input type="range" id="progress-bar" value="0" />
+        <div class="time">
+          <span id="current">0:00</span>
+          <span id="duration">0:00</span>
+        </div>
+
+        <div class="controls">
+          <div onclick="backward()"><i class="fa-solid fa-backward"></i></div>
+          <div onclick="playPause()">
+            <i class="fa-solid fa-play" id="playBtn"></i>
+          </div>
+          <div onclick="forward()"><i class="fa-solid fa-forward"></i></div>
+        </div>
+      </div>
+    </div>
+  </body>
+  <script src="script.js"></script>
+</html>
