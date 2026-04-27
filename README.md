@@ -6,16 +6,15 @@ Tech Used:
 • HTML • CSS • Vanilla JavaScript
 
 Features:
-• Play / Pause functionality
-• Forward & Backward controls
-• Interactive progress bar with seek support
-• Real-time current time & duration display
-• Dynamic playlist with song switching
-• Auto-play next song
-• Animated rotating album art while playing
-• Smooth UI with modern design & transitions
-• Keyboard-accessible focus states
-
+- Play / Pause functionality  
+- Forward & Backward controls  
+- Interactive progress bar with seek support  
+- Real-time current time & duration display  
+- Dynamic playlist with song switching  
+- Auto-play next song  
+- Animated rotating album art while playing  
+- Smooth UI with modern design & transitions  
+- Keyboard-accessible focus states  
 
 What I Learned:
 • Handling HTML5 Audio API (play, pause, currentTime, duration)
