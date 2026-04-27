@@ -16,19 +16,19 @@ const songs = [
     src: "assets/music/Song1.mp3",
     title: "Chore Albadi",
     artist: "Duryodhan, Akash Rana",
-    img: "assets/images/song1.png",
+    img: "assets/images/Song1.png",
   },
   {
-    src: "assets/music/song2.mp3",
+    src: "assets/music/Song2.mp3",
     title: "Rana Naam Bhaari",
     artist: "Duryodhan Rana",
-    img: "assets/images/song2.png",
+    img: "assets/images/Song2.png",
   },
   {
-    src: "assets/music/song3.mp3",
+    src: "assets/music/Song3.mp3",
     title: "Bhid mat",
     artist: "Duryodhan Rana",
-    img: "assets/images/song3.png",
+    img: "assets/images/Song3.png",
   },
 ];
 
