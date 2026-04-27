@@ -13,7 +13,7 @@ const playlistContainer = document.getElementById("playlist-container");
 
 const songs = [
   {
-    src: "assets/music/song1.mp3",
+    src: "assets/music/Song1.mp3",
     title: "Chore Albadi",
     artist: "Duryodhan, Akash Rana",
     img: "assets/images/song1.png",
