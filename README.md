@@ -7,6 +7,7 @@ Tech Used:
 - CSS  
 - Vanilla JavaScript  
 
+
 Features:
 - Play / Pause functionality  
 - Forward & Backward controls  
@@ -19,12 +20,12 @@ Features:
 - Keyboard-accessible focus states  
 
 What I Learned:
-• Handling HTML5 Audio API (play, pause, currentTime, duration)
-• Synchronizing UI with audio state (onplay, onpause, ontimeupdate)
-• Building dynamic UI using JavaScript objects
-• Managing application state (current song index)
-• Creating smooth animations with CSS & JS integration
-• Improving UX with accessibility & interaction design
+- Handling HTML5 Audio API  
+- Synchronizing UI with audio state  
+- Building dynamic UI using JavaScript objects  
+- Managing application state  
+- Creating smooth animations  
+- Improving UX with accessibility  
 
 Next Improvements:
 • Upload & play local user files dynamically
