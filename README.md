@@ -16,6 +16,7 @@ Features:
 • Smooth UI with modern design & transitions
 • Keyboard-accessible focus states
 
+
 What I Learned:
 • Handling HTML5 Audio API (play, pause, currentTime, duration)
 • Synchronizing UI with audio state (onplay, onpause, ontimeupdate)
