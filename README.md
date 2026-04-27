@@ -19,6 +19,7 @@ Features:
 - Smooth UI with modern design & transitions  
 - Keyboard-accessible focus states  
 
+
 What I Learned:
 - Handling HTML5 Audio API  
 - Synchronizing UI with audio state  
@@ -27,12 +28,13 @@ What I Learned:
 - Creating smooth animations  
 - Improving UX with accessibility  
 
+
 Next Improvements:
-• Upload & play local user files dynamically
-• Generate playlist dynamically from JavaScript (no hardcoded HTML)
-• Volume control & mute toggle
-• Dark mode support
-• Backend integration for streaming
+- Upload & play local user files dynamically
+- Generate playlist dynamically from JavaScript (no hardcoded HTML)
+- Volume control & mute toggle
+- Dark mode support
+- Backend integration for streaming
 
 Live
 (https://saurabh54e.github.io/Js-Day10-Music-Player/)
