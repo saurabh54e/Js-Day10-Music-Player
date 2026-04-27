@@ -3,7 +3,9 @@
 Continuing my 30 Days JavaScript Challenge, I built a fully functional **Music Player Web App** using Vanilla JavaScript.
 
 Tech Used:
-• HTML • CSS • Vanilla JavaScript
+- HTML  
+- CSS  
+- Vanilla JavaScript  
 
 Features:
 - Play / Pause functionality  
